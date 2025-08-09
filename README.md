@@ -1,6 +1,6 @@
 # Nilper Chairs Price Scraper & Market Analysis
 
-This project scrapes product data from the [Nilper store](https://store.nilper.ir/) to collect chair model names, prices, images, and product links.  
+This project scrapes product data from the [Nilper store]([https://store.nilper.ir/](https://store.nilper.ir/%D8%B5%D9%86%D8%AF%D9%84%DB%8C-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C)) to collect chair model names, prices, images, and product links.  
 The data is then cleaned and exported for analysis in Power BI, where a dashboard visualizes price ranges and market trends.
 
 
